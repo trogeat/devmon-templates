@@ -1,0 +1,16 @@
+
+If you found this directory empty when you were expecting it to be otherwise,
+this is due to a decision made to seperate the template code and the main
+devmon code into two discreet packages.
+
+You can now download the templates seperately from the devmon home page:
+https://sourceforge.net/projects/devmon/
+
+NOTE:
+
+Many (if not all) of the templates in this tarball require devmon 
+version 0.3.0 or higher to function properly.  Running any prior 
+version is asking for trouble.
+
+You can obtain the latest version of devmon from the devmon home page:
+https://sourceforge.net/projects/devmon/

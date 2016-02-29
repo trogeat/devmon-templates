@@ -1,0 +1,6 @@
+
+# Change temperature from celsius to farenheit
+upsEnvTempF	: MATH		: ({upsEnvTemp} x 1.8) + 32
+
+# Trickery to get our humidity to report n/a if its below 0
+upsEnvHmdVal	: MATH		: {upsEnvHumidity}
